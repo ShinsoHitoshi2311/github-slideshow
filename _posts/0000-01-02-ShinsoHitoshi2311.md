@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Use the left arrow to go back!
+"I just want to feel that I am worth the love of someone"
